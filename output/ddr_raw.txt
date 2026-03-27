@@ -1,0 +1,244 @@
+---
+  
+DETAILED DIAGNOSTIC REPORT (DDR)
+
+PROPERTY DETAILS  
+- Property Type: Flat  
+- Number of Floors: 11  
+- Inspection Date: 27.09.2022  
+- Inspected By: Krushna & Mahesh  
+- Overall Inspection Score: 85.71%  
+- Previous Structural Audit: No  
+- Previous Repair Work Done: No  
+
+---
+
+1. PROPERTY ISSUE SUMMARY
+
+The property shows visible signs of water leakage and dampness in several internal rooms and also minor external wall damage. Moisture is actively present, causing damp patches, peeling paint, and some efflorescence in multiple bedrooms, kitchen, living areas and bathrooms. External wall cracks and plumbing issues have contributed to these problems. Overall, seven distinct impacted areas were identified, including hall, bedrooms, kitchen, master bedroom, parking area, and common bathrooms.
+
+Most issues are moderate to high severity and are active leaks rather than just historic stains. The presence of plumbing leaks concealed within walls, damaged traps under tiles, and gaps in tile joints are allowing water to continually seep and affect surrounding walls and floors. Thermal scans confirm ongoing moisture in various room corners and wall bases, indicating rising damp and active water ingress in internal spaces.
+
+Given the continuous leakage and moisture presence linked to plumbing and tile joint defects, timely intervention is essential to prevent further deterioration, mold formation, and possible damage to finishes and structure. Prompt repairs to plumbing joints, tile sealing and wall cracks will reduce moisture sources and restore property condition.
+
+---
+
+2. AREA-WISE OBSERVATIONS
+
+AREA: Hall (Flat No. 103)  
+
+Problem Location (Negative Side):  
+Visible dampness at skirting level along wall corners with peeling paint and plaster damage. Staining appears at base near floor level indicating rising damp or water seepage.  
+
+Source of Problem (Positive Side):  
+Gaps between tile joints and hollowness in common bathroom tiles nearby are allowing water leakage to penetrate walls by capillary action. Concealed plumbing leaks contributing to dampness.  
+
+Thermal Evidence:  
+RB02380X.JPG, Coldspot 23.4 °C, Hotspot 28.8 °C, Delta 5.4 °C, Moisture Risk: HIGH  
+Thermal image shows a cold zone at the bottom left corner near skirting level confirming active moisture accumulation at wall base.  
+
+Photo Evidence:  
+Photo 1, Photo 2, Photo 3, Photo 4, Photo 5, Photo 6, Photo 7, Photo 8, Photo 9, Photo 10, Photo 11  
+
+---
+
+AREA: Bedroom (Flat No. 103)  
+
+Problem Location (Negative Side):  
+Dampness visible at skirting level walls with peeling paint and efflorescence. Lower wall corners affected near floor areas.  
+
+Source of Problem (Positive Side):  
+Tile joint gaps and hollowness in the common bathroom adjoining the bedroom allow water to leak and damage adjacent walls. Concealed plumbing leak inside bathroom contributing to persistent dampness.  
+
+Thermal Evidence:  
+RB02386X.JPG, Coldspot 22.4 °C, Hotspot 27.4 °C, Delta 5.0 °C, Moisture Risk: HIGH  
+Thermal image indicates active moisture presence near lower central wall area close to skirting, consistent with visual dampness.  
+
+Photo Evidence:  
+Photo 12, Photo 13, Photo 14, Photo 15, Photo 16, Photo 17, Photo 18, Photo 19  
+
+---
+
+AREA: Master Bedroom (Flat No. 103)  
+
+Problem Location (Negative Side):  
+Damp patches and skirting level dampness observed at wall corners and lower wall sections. In some places, wall surface efflorescence and peeling paint noted.  
+
+Source of Problem (Positive Side):  
+Hollowness and gaps in Master Bedroom bathroom tile joints combined with leakage through concealed plumbing and damaged Nahani trap are primary sources causing moisture ingress to bedroom walls. External wall cracks near the master bedroom also worsen internal dampness.  
+
+Thermal Evidence:  
+RB02395X.JPG, Coldspot 22.0 °C, Hotspot 27.0 °C, Delta 5.0 °C, Moisture Risk: HIGH  
+Thermal scan shows cold zone across lower wall base near skirting on room corner with damp staining.  
+
+Photo Evidence:  
+Photo 20, Photo 21, Photo 22, Photo 23, Photo 24, Photo 25, Photo 26, Photo 27, Photo 28, Photo 29, Photo 30, Photo 38, Photo 39, Photo 40, Photo 41, Photo 42, Photo 43, Photo 44, Photo 45, Photo 46, Photo 47, Photo 48  
+
+---
+
+AREA: Kitchen (Flat No. 103)  
+
+Problem Location (Negative Side):  
+Dampness present at skirting level walls and wall corners with efflorescence staining and paint peeling.  
+
+Source of Problem (Positive Side):  
+Water leakage and gaps around tile joints in Master Bedroom bathroom extend impact into kitchen walls. Concealed plumbing leaks below floor level worsen damp ingress.  
+
+Thermal Evidence:  
+RB02402X.JPG, Coldspot 20.7 °C, Hotspot 25.7 °C, Delta 5.0 °C, Moisture Risk: HIGH  
+Thermal image shows cold zone along bottom left wall near skirting confirming moisture ingression at floor level.  
+
+Photo Evidence:  
+Photo 31, Photo 32, Photo 33, Photo 34, Photo 35, Photo 36, Photo 37  
+
+---
+
+AREA: Master Bedroom (External Wall) (Flat No. 103)  
+
+Problem Location (Negative Side):  
+Wall surface shows dampness and visible cracking on external wall and some duct related issues near the master bedroom external facade.  
+
+Source of Problem (Positive Side):  
+Cracks in external walls allow water ingress; combined with concealed plumbing and drainage defects this leads to moisture penetration inside. External wall cracks noted near master bedroom further worsen the problem.  
+
+Thermal Evidence:  
+Thermal image Not Available — external wall thermal scans are not part of provided thermal images.  
+
+Photo Evidence:  
+Photo 38, Photo 39, Photo 40, Photo 41, Photo 42, Photo 43, Photo 44, Photo 45, Photo 46, Photo 47, Photo 48  
+
+---
+
+AREA: Parking Area (Below Flat No. 103)  
+
+Problem Location (Negative Side):  
+Ceiling shows signs of seepage with damp patches and water stains visible, indicating water penetration from above.  
+
+Source of Problem (Positive Side):  
+Leakage through damaged plumbing joints in common bathroom above leads to seepage affecting parking area ceiling. Tile joint gaps and plumbing issues in common bathroom are main sources.  
+
+Thermal Evidence:  
+Thermal image Not Available — no specific matching thermal image found for parking area.  
+
+Photo Evidence:  
+Photo 49, Photo 50, Photo 51, Photo 52, Photo 53, Photo 54, Photo 55, Photo 56, Photo 57  
+
+---
+
+AREA: Common Bathroom (Flat No. 103 and Flat No. 203)  
+
+Problem Location (Negative Side):  
+Ceiling dampness with visible water stains, outlet leakage, and open or damaged tile joints causing active leakage inside bathroom areas.  
+
+Source of Problem (Positive Side):  
+Open and damaged tile joints in Flat No. 203 bathroom and plumbing corrosion/rusting joints cause continuous water leakage affecting these bathrooms. Leakage originates mostly from concealed plumbing failures and poor tile sealing.  
+
+Thermal Evidence:  
+RB02393X.JPG, Coldspot 20.9 °C, Hotspot 25.9 °C, Delta 5.0 °C, Moisture Risk: HIGH  
+Thermal scan shows cold zone along skirting with visible damp patches in bathroom area consistent with leakage.  
+
+Photo Evidence:  
+Photo 58, Photo 59, Photo 60, Photo 61, Photo 62, Photo 63, Photo 64  
+
+---
+
+3. PROBABLE ROOT CAUSE
+
+Property Overall:  
+The main cause of the widespread dampness and leakage problems is defective concealed plumbing joints and damaged drainage components such as the Nahani trap under tile flooring. These failures allow continuous water leakage which infiltrates tile joints, floor skirting, walls, and ceilings. Gaps in tile joints and cracks in external walls further facilitate water ingress. The issues appear persistent and have likely existed for a considerable period, as indicated by efflorescence, peeling paint, rusting plumbing joints, and extensive damp patches.
+
+Area-wise, each affected room’s dampness traces back to the adjacent bathroom plumbing and floor tile deficiencies, showing a systemic maintenance failure in plumbing and sealing workmanship rather than age-related wear alone. External wall cracks contribute to moisture ingress in the master bedroom external wall, likely due to unaddressed structural cracking. The problem has spread from bathrooms and concealed plumbing routes vertically and horizontally into living spaces, indicating poor waterproofing and maintenance.
+
+---
+
+4. SEVERITY ASSESSMENT
+
+Hall (Flat No. 103): HIGH  
+Reasoning: Visible active dampness and peeling plaster with thermal scan confirming moisture risk of delta 5.4°C, indicating ongoing moisture ingress from leaking tile joints and plumbing.
+
+Bedroom (Flat No. 103): HIGH  
+Reasoning: Confirmed leakage by visual efflorescence and peeling paint along with thermal evidence showing delta 5.0°C moisture risk at wall base, indicating active damp.
+
+Master Bedroom (Flat No. 103): HIGH  
+Reasoning: Active leakage from bathroom plumbing and external wall cracks with thermal scans showing high moisture risk delta 5.0°C; visible extensive staining and paint damage.
+
+Kitchen (Flat No. 103): HIGH  
+Reasoning: Dampness at skirting and peeling paint confirmed with thermal delta 5.0°C indicating ongoing moisture penetration from adjacent leaking sources.
+
+Master Bedroom External Wall: MODERATE  
+Reasoning: Visible external cracks and dampness evident but thermal imaging not available to confirm current moisture level; severity rated moderate due to absence of confirmed active leak detection.
+
+Parking Area (Below Flat No. 103): MODERATE  
+Reasoning: Seepage in ceiling observed but without thermal evidence; moderate rating reflecting visible signs without confirmed thermal verification.
+
+Common Bathroom (Flats 103 and 203): HIGH  
+Reasoning: Visible leakage, outlet leaking, damaged tile joints and plumbing rust confirmed by thermal delta 5.0°C; active leak source identified.
+
+Overall Property Severity: HIGH  
+Overall Reasoning: Multiple areas show ongoing moisture ingress or active leakage confirmed both visually and through thermal imaging with moisture risk deltas above 4°C. Critical concealed plumbing failures are impacting several rooms, meriting a high severity rating.
+
+---
+
+5. RECOMMENDED ACTIONS
+
+Priority 1 — Repair Concealed Plumbing Leaks  
+Area affected: Hall, Bedroom, Master Bedroom, Kitchen, Common Bathroom  
+What to do: Engage a qualified plumber to locate and repair all leaking concealed plumbing joints and damaged Nahani trap under tile flooring. Replace rusted joints and restore watertight seals.  
+Why urgent: Active plumbing leaks are the root cause of moisture damage and will worsen if unrepaired, causing structural damage and health risks.  
+Estimated complexity: Complex  
+
+Priority 2 — Re-seal and Repair Tile Joints  
+Area affected: Hall, Bedroom, Master Bedroom, Kitchen, Common Bathroom  
+What to do: Remove and replace hollow or damaged tiles; grout and seal all tile joints properly to prevent water ingress. Ensure tiling fixes prevent water seepage under flooring.  
+Why urgent: Gaps and hollowness allow water leakage to persist even after plumbing repairs, perpetuating damage.  
+Estimated complexity: Moderate  
+
+Priority 3 — Repair External Wall Cracks  
+Area affected: Master Bedroom External Wall  
+What to do: Inspect and seal external wall cracks; apply suitable water-resistant coatings or plaster to prevent water ingress.  
+Why urgent: External cracks worsen internal dampness and compromise wall integrity if unaddressed.  
+Estimated complexity: Moderate  
+
+Priority 4 — Address Ceiling Seepage in Parking Area  
+Area affected: Parking Area Ceiling  
+What to do: Locate water ingress source and repair plumbing or drainage causing seepage; treat ceiling surface for damp damage and repaint if necessary.  
+Why urgent: Unrepaired seepage can cause ceiling deterioration and potential fall hazards.  
+Estimated complexity: Moderate  
+
+Priority 5 — Clean and Treat Mold and Damp Stained Surfaces  
+Area affected: All interiors with visible dampness  
+What to do: After fixing leaks, treat affected walls with anti-fungal agents and repaint using suitable moisture-resistant paints. Regularly clean areas prone to moisture.  
+Why urgent: Prevents mold growth and health hazards.  
+Estimated complexity: Simple  
+
+---
+
+6. ADDITIONAL NOTES
+
+- There is a consistent pattern where concealed plumbing issues combined with damaged tile joints cause significant water ingress throughout the property.  
+- Maintenance has been insufficient; previous repairs or structural audits were not performed, allowing problems to escalate.  
+- External wall algae and moss presence, though moderate, indicate damp external conditions that will worsen without corrective action.  
+- The existing paint adhesion is good where not affected by moisture, providing a positive aspect for future repainting post repairs.  
+- Ongoing moisture monitoring is recommended after repairs to ensure no recurrence and to detect hidden leaks early.  
+- Photographic and thermal evidence consistently align, reinforcing the diagnosis of widespread active moisture intrusion.  
+
+---
+
+7. MISSING OR UNCLEAR INFORMATION
+
+- Property Type confirmation in parts 2 & 3: Not Available (Impacts clarity of overall property context)  
+- Inspection Date and Inspector name on parts 2 & 3: Not Available (Important for report completeness)  
+- Overall Inspection Score in parts 2 & 3: Not Available (Aids in performance assessment)  
+- Structural audit details and previous repair history beyond part 1: Not Available (Important for understanding past issues)  
+- Thermal imaging for external wall cracks and parking area ceiling: Not Available (Limits confirmation of moisture risk in these areas)  
+- Details on type and manufacturer of existing paint: Not Available (Could inform repair paint matching)  
+- More specific plumbing system information or schematic: Not Available (Would aid in exact leak source identification)  
+
+CONFLICTS DETECTED:  
+No conflicts detected between inspection report and thermal imaging findings. Both sources consistently indicate active moisture issues predominantly at lower wall/skirting areas with confirmed visible damage and plumbing leaks.
+
+---
+
+END OF REPORT
+
+---
