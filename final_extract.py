@@ -636,9 +636,6 @@ def save_ddr_text(ddr_text, output_folder="output"):
     return output_path
 
 
-# ----------------------------
-# Run this file directly
-# ----------------------------
 
 if __name__ == "__main__":
 
