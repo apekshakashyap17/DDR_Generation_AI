@@ -5,9 +5,6 @@ from pathlib import Path
 from openai import OpenAI
 from dotenv import load_dotenv
 
-# ----------------------------
-# Load API Key
-# ----------------------------
 
 load_dotenv()
 api_key = os.getenv("OPENROUTER_API_KEY")
@@ -18,19 +15,16 @@ if not api_key:
         "Please check your .env file."
     )
 
-# Initialize OpenRouter client
+
 client = OpenAI(
     base_url = "https://openrouter.ai/api/v1",
     api_key  = api_key
 )
 
-# Model to use
 MODEL = "openai/gpt-4.1-mini"
 
 
-# ----------------------------
-# Load Images From Pages Folder
-# ----------------------------
+
 
 def load_images_from_folder(folder, prefix):
     """
@@ -57,7 +51,7 @@ def load_images_from_folder(folder, prefix):
         with open(image_file, "rb") as f:
             image_data = f.read()
 
-        # Convert to base64 for OpenRouter
+     
         b64_data = base64.b64encode(image_data).decode("utf-8")
 
         images.append({
@@ -70,10 +64,6 @@ def load_images_from_folder(folder, prefix):
     return images
 
 
-# ----------------------------
-# Build Image Messages
-# ----------------------------
-
 def build_image_messages(images, instruction):
     """
     Builds the message content list in OpenRouter
@@ -82,21 +72,19 @@ def build_image_messages(images, instruction):
 
     content = []
 
-    # Add the instruction text first
+ 
     content.append({
         "type": "text",
         "text": instruction
     })
 
-    # Add each image with its filename label
+  
     for img in images:
-        # Add filename label
         content.append({
             "type": "text",
             "text": f"Page: {img['filename']}"
         })
 
-        # Add the image
         content.append({
             "type"     : "image_url",
             "image_url": {
@@ -107,9 +95,6 @@ def build_image_messages(images, instruction):
     return content
 
 
-# ----------------------------
-# Send Batch to OpenRouter
-# ----------------------------
 
 def send_batch(images, instruction, batch_label=""):
     """
@@ -141,9 +126,7 @@ def send_batch(images, instruction, batch_label=""):
     return result
 
 
-# ----------------------------
-# DDR Generation Prompt
-# ----------------------------
+
 
 DDR_PROMPT = DDR_PROMPT = """
 You are a senior property inspection engineer with 
@@ -354,10 +337,6 @@ responding.
 """
 
 
-# ----------------------------
-# Extraction Instructions
-# ----------------------------
-
 INSPECTION_INSTRUCTION = INSPECTION_INSTRUCTION = """
 You are reading pages from a professional property 
 inspection report. Your job is to extract every piece 
@@ -479,9 +458,7 @@ to previous pages.
 """
 
 
-# ----------------------------
-# Main DDR Generation Function
-# ----------------------------
+
 
 def generate_ddr(pages_folder="pages"):
     """
@@ -501,9 +478,7 @@ def generate_ddr(pages_folder="pages"):
         pages_folder, "thermal"
     )
 
-    # ----------------------------------------
-    # Split into batches of 8 pages each
-    # ----------------------------------------
+
 
     def chunk_list(lst, chunk_size):
         return [
@@ -519,9 +494,6 @@ def generate_ddr(pages_folder="pages"):
     print(f"Thermal split into "
           f"{len(thermal_batches)} batches")
 
-    # ----------------------------------------
-    # Process inspection batches
-    # ----------------------------------------
 
     inspection_results = []
 
@@ -545,9 +517,6 @@ def generate_ddr(pages_folder="pages"):
             print("Waiting 10 seconds before next batch...")
             time.sleep(10)
 
-    # ----------------------------------------
-    # Process thermal batches
-    # ----------------------------------------
 
     thermal_results = []
 
@@ -571,10 +540,6 @@ def generate_ddr(pages_folder="pages"):
             print("Waiting 10 seconds before next batch...")
             time.sleep(10)
 
-    # ----------------------------------------
-    # Combine all extracted text
-    # ----------------------------------------
-
     print("\nCombining all extracted findings...")
 
     combined = "INSPECTION REPORT FINDINGS:\n\n"
@@ -587,9 +552,7 @@ def generate_ddr(pages_folder="pages"):
         combined += f"--- Thermal Part {i+1} ---\n"
         combined += text + "\n\n"
 
-    # ----------------------------------------
-    # Generate final DDR report
-    # ----------------------------------------
+
 
     print("\nGenerating final DDR report...")
     print("This is the last API call, please wait...")
@@ -614,10 +577,6 @@ def generate_ddr(pages_folder="pages"):
     return ddr_text
 
 
-# ----------------------------
-# Save DDR Text to File
-# ----------------------------
-
 def save_ddr_text(ddr_text, output_folder="output"):
     """
     Saves the raw DDR text to a file so you can
@@ -638,11 +597,7 @@ def save_ddr_text(ddr_text, output_folder="output"):
 
 
 if __name__ == "__main__":
-
-    # Generate the DDR
     ddr_text = generate_ddr(pages_folder="pages")
-
-    # Save raw text output
     save_ddr_text(ddr_text, output_folder="output")
 
     print("\nDDR generation complete.")
