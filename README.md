@@ -1,9 +1,10 @@
-DDR Generation AI
+#DDR Generation AI
 An AI-powered pipeline that automatically generates Detailed Diagnostic Reports (DDR) from multi-page inspection and thermal imaging PDFs — turning raw unstructured documents into structured, client-ready reports.
-What it does
-Upload inspection and thermal imaging PDFs and the system extracts, analyzes, and synthesizes the information into a formatted diagnostic report — no manual reading or summarizing required.
-How it works
 
+#What it does
+Upload inspection and thermal imaging PDFs and the system extracts, analyzes, and synthesizes the information into a formatted diagnostic report — no manual reading or summarizing required.
+
+#How it works
 PDF pages are converted into images (page-to-image-converter.py)
 Images are sent to a multimodal vision model (GPT-4.1-mini via OpenRouter) for information extraction
 Extracted data is processed with conflict detection and severity classification logic
